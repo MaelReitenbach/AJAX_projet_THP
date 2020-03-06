@@ -1,1 +1,1 @@
-https://ajaxprojetthp.herokuapp.com/
+https://git.heroku.com/ajaxprojetthp.git
